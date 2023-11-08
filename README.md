@@ -1,3 +1,5 @@
-This is our workshop repository
+This is our workshiop repository
 
-This repository is not actually cool
+It is super cool
+
+Here is some more cool text
