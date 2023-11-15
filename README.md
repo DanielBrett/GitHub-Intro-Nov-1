@@ -2,7 +2,11 @@
 ## This is smaller
 ### This is even smaller
 
-**bold and bold**
+
+
+<srtrong> bold and bold </strong>
+
+
 
 *italics*
 
