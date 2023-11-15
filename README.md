@@ -1,3 +1,23 @@
+# This is a header
+## This is smaller
+### This is even smaller
+
+**bold and bold**
+
+*italics*
+
+[This is a link](www.google.ca)
+
+![Headshot of Man With Lizard](Daniel_Headshot_Library_Reduced.jpg)
+
+
+
+
+
+
+
+
+
 This is our workshop repository
 
 What is your favorite animal?
